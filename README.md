@@ -9,12 +9,14 @@ Arsh Goyal 45 days challenge.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
