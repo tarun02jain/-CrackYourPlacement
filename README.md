@@ -14,6 +14,7 @@ Arsh Goyal 45 days challenge.
 | [0054-spiral-matrix](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0283-move-zeroes](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0283-move-zeroes) |
@@ -29,6 +30,7 @@ Arsh Goyal 45 days challenge.
 | [0015-3sum](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
@@ -44,6 +46,7 @@ Arsh Goyal 45 days challenge.
 | ------- |
 | [0015-3sum](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
