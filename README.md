@@ -11,6 +11,7 @@ Arsh Goyal 45 days challenge.
 | [0011-container-with-most-water](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0075-sort-colors) |
@@ -52,6 +53,7 @@ Arsh Goyal 45 days challenge.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0169-majority-element) |
@@ -65,6 +67,7 @@ Arsh Goyal 45 days challenge.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
@@ -103,6 +106,7 @@ Arsh Goyal 45 days challenge.
 | [0014-longest-common-prefix](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
