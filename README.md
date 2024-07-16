@@ -33,6 +33,7 @@ Arsh Goyal 45 days challenge.
 | [0011-container-with-most-water](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0283-move-zeroes) |
@@ -97,6 +98,7 @@ Arsh Goyal 45 days challenge.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0079-word-search](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0079-word-search) |
 ## Backtracking
 |  |
@@ -119,4 +121,8 @@ Arsh Goyal 45 days challenge.
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
