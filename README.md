@@ -102,6 +102,7 @@ Arsh Goyal 45 days challenge.
 | [0014-longest-common-prefix](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0071-simplify-path](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0079-word-search) |
 | [0680-valid-palindrome-ii](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 ## Backtracking
@@ -120,6 +121,7 @@ Arsh Goyal 45 days challenge.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
 ## Monotonic Stack
 |  |
