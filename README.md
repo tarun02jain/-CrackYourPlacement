@@ -13,6 +13,7 @@ Arsh Goyal 45 days challenge.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0283-move-zeroes](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0283-move-zeroes) |
@@ -74,8 +75,17 @@ Arsh Goyal 45 days challenge.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
+## String
+|  |
+| ------- |
+| [0079-word-search](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0079-word-search) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
