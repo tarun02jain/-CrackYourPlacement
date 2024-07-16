@@ -15,6 +15,7 @@ Arsh Goyal 45 days challenge.
 | [0055-jump-game](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -108,4 +109,12 @@ Arsh Goyal 45 days challenge.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0169-majority-element) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
