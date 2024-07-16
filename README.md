@@ -18,6 +18,7 @@ Arsh Goyal 45 days challenge.
 | [0088-merge-sorted-array](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0169-majority-element](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -48,6 +49,7 @@ Arsh Goyal 45 days challenge.
 | [0015-3sum](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -58,6 +60,7 @@ Arsh Goyal 45 days challenge.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -94,4 +97,12 @@ Arsh Goyal 45 days challenge.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0079-word-search) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
