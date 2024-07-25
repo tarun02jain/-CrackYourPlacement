@@ -25,6 +25,7 @@ Arsh Goyal 45 days challenge.
 | [0287-find-the-duplicate-number](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0289-game-of-life) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -72,6 +73,7 @@ Arsh Goyal 45 days challenge.
 | [0049-group-anagrams](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Greedy
@@ -132,10 +134,12 @@ Arsh Goyal 45 days challenge.
 | [0071-simplify-path](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 ## String Matching
 |  |
 | ------- |
