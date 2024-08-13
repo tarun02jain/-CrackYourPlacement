@@ -29,6 +29,7 @@ Arsh Goyal 45 days challenge.
 | [0560-subarray-sum-equals-k](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,6 +67,7 @@ Arsh Goyal 45 days challenge.
 | [0055-jump-game](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +101,7 @@ Arsh Goyal 45 days challenge.
 | [0054-spiral-matrix](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0079-word-search) |
 | [0289-game-of-life](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0289-game-of-life) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -159,4 +162,24 @@ Arsh Goyal 45 days challenge.
 | ------- |
 | [0206-reverse-linked-list](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+## Graph
+|  |
+| ------- |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+## Topological Sort
+|  |
+| ------- |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+## Memoization
+|  |
+| ------- |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 <!---LeetCode Topics End-->
