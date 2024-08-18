@@ -67,6 +67,7 @@ Arsh Goyal 45 days challenge.
 | [0055-jump-game](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0264-ugly-number-ii](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Hash Table
 |  |
@@ -74,6 +75,7 @@ Arsh Goyal 45 days challenge.
 | [0001-two-sum](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0169-majority-element) |
+| [0264-ugly-number-ii](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
@@ -182,4 +184,12 @@ Arsh Goyal 45 days challenge.
 |  |
 | ------- |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+## Math
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
