@@ -65,6 +65,7 @@ Arsh Goyal 45 days challenge.
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0264-ugly-number-ii](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
@@ -187,9 +188,14 @@ Arsh Goyal 45 days challenge.
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0062-unique-paths) |
 | [0264-ugly-number-ii](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
