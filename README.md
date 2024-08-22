@@ -18,6 +18,7 @@ Arsh Goyal 45 days challenge.
 | [0079-word-search](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0169-majority-element) |
@@ -52,6 +53,7 @@ Arsh Goyal 45 days challenge.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
@@ -126,6 +128,7 @@ Arsh Goyal 45 days challenge.
 | ------- |
 | [0077-combinations](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0090-subsets-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
