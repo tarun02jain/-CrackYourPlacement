@@ -82,6 +82,7 @@ Arsh Goyal 45 days challenge.
 | [0442-find-all-duplicates-in-an-array](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Greedy
 |  |
@@ -172,6 +173,7 @@ Arsh Goyal 45 days challenge.
 ## Depth-First Search
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -180,6 +182,7 @@ Arsh Goyal 45 days challenge.
 ## Graph
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Topological Sort
 |  |
@@ -202,4 +205,8 @@ Arsh Goyal 45 days challenge.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0062-unique-paths) |
+## Union Find
+|  |
+| ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 <!---LeetCode Topics End-->
