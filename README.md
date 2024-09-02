@@ -30,6 +30,7 @@ Arsh Goyal 45 days challenge.
 | [0560-subarray-sum-equals-k](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Two Pointers
 |  |
@@ -107,12 +108,14 @@ Arsh Goyal 45 days challenge.
 | [0054-spiral-matrix](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0079-word-search) |
 | [0289-game-of-life](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0289-game-of-life) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0289-game-of-life) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/2132-convert-1d-array-into-2d-array) |
 ## String
 |  |
 | ------- |
