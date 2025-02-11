@@ -180,6 +180,7 @@ Arsh Goyal 45 days challenge.
 ## Depth-First Search
 |  |
 | ------- |
+| [0332-reconstruct-itinerary](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0332-reconstruct-itinerary) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Breadth-First Search
@@ -189,6 +190,7 @@ Arsh Goyal 45 days challenge.
 ## Graph
 |  |
 | ------- |
+| [0332-reconstruct-itinerary](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0332-reconstruct-itinerary) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Topological Sort
@@ -216,4 +218,8 @@ Arsh Goyal 45 days challenge.
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
