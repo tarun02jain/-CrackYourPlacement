@@ -222,4 +222,8 @@ Arsh Goyal 45 days challenge.
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/0332-reconstruct-itinerary) |
+## Database
+|  |
+| ------- |
+| [1415-students-and-examinations](https://github.com/tarun02jain/-CrackYourPlacement/tree/master/1415-students-and-examinations) |
 <!---LeetCode Topics End-->
